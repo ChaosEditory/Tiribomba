@@ -1,0 +1,13 @@
+{
+  "name": "tiribot",
+  "version": "1.0.1",
+  "description": "tribomba by katalin talent",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "chaos",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
